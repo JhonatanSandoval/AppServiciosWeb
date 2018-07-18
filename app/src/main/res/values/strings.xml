@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppServiciosWeb</string>
+    <string name="ingrese_su_email">Ingrese su email</string>
+    <string name="ingrese_su_contrasena">Ingrese su contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="ningun_campo_puede_estar_vacio">Ningún campo puede estar vacío.</string>
+    <string name="no_tienes_cuenta_registrate_ahora">¿No tienes cuenta? <b>Regístrate ahora</b></string>
+    <string name="regresar"> &#60;&#60;&#60; Regresar</string>
+    <string name="ingrese_sus_nombres">Ingrese sus Nombres</string>
+    <string name="ingrese_sus_apellidos">Ingrese sus Apellidos</string>
+    <string name="registrarme">Registrarme</string>
+    <string name="login">Login</string>
+    <string name="registro">Registro</string>
+</resources>
